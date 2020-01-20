@@ -1,0 +1,5 @@
+googleAnalytics = "UA-220529843-X"
+baseURL = "http://molder.dev/"
+languageCode = "en-us"
+title = "Marica Molder"
+theme = "hugo-book"
