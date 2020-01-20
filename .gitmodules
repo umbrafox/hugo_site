@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/umbrafox/umbrafox.github.io.git
 	branch = master
+[submodule "umbrafox.github.io"]
+	path = umbrafox.github.io
+	url = git@github.com:umbrafox/umbrafox.github.io
