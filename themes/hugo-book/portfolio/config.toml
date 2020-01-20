@@ -1,4 +1,4 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/themes/hugo-book/
 
 baseURL = 'https://molder.dev/'
 title = 'Journal to the center of the Exception'

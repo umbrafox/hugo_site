@@ -1,6 +1,3 @@
-[submodule "themes/hugo-book"]
-	path = themes/hugo-book/portfolio/content
-	url = https://github.com/umbrafox/umbrafox.github.io
 [submodule "public"]
 	path = public
 	url = git@github.com:umbrafox/umbrafox.github.io
