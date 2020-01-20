@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:umbrafox/umbrafox.github.io.git
+	url = https://github.com/umbrafox/umbrafox.github.io.git
 	branch = master

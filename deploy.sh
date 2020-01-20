@@ -1,15 +1,15 @@
 #!/bin/sh
 
 # If a command fails then the deploy stops
-set -e
+#set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo server --themesDir ../..
+cd "public/themes/hugo-book/portfolio"
+hugo server --themesDir="../.."
 
-# Go To Public folder
-cd public
+cd ..
 
 # Add changes to git.
 git add .

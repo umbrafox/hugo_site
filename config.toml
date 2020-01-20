@@ -1,5 +1,5 @@
 googleAnalytics = "UA-220529843-X"
-baseURL = "http://molder.dev/"
+baseURL = "https://umbrafox.github.io/"
 languageCode = "en-us"
 title = "Marica Molder"
 theme = "hugo-book"
