@@ -1,0 +1,3 @@
+[submodule "umbrafox.github.io"]
+	path = umbrafox.github.io
+	url = git@github.com:umbrafox/umbrafox.github.io.git
